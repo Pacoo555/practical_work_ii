@@ -5,3 +5,5 @@
 - Added styles.css.
 - Added contact.html.
 - Added degree.html.
+- Added fce.html.
+- Added topic.html.
