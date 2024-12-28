@@ -7,3 +7,5 @@
 - Added degree.html.
 - Added fce.html.
 - Added topic.html.
+- Added about.html.
+- Added net.html.
