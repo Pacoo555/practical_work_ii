@@ -21,6 +21,3 @@ Another issue was trying to insert a link into an image. I wanted the image to b
 
 Conclusion
 Developing this page was a valuable learning experience, as it allowed me to gain a better understanding of how web pages are structured and how different HTML elements interact. Although I encountered some initial challenges, I was ultimately able to create a functional page that demonstrates the knowledge I have gained.
-
-
-The primary goal was to learn the fundamentals of HTML and build a functional foundation for future enhancements and customizations.
